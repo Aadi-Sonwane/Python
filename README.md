@@ -5,7 +5,7 @@ If you're new to the world of Python and eager to kickstart your programming jou
 How to use:
 
 Clone this repository to your local machine:
-git clone https://github.com/your-username/
+git clone https://github.com/Aadi-Sonwane/Python.git
 
 Features:
 
